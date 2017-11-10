@@ -1,7 +1,7 @@
 # KMST
 TU Vienna 
 
-##### Prim’s algorithm for the MST problem.
+##### Prim’s algorithm for the Minimal Spanning Tree Problem.
 The algorithm : </br>
 1-) Correctness </br>
 2-) Implementation </br>
