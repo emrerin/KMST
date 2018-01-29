@@ -18,7 +18,7 @@ in weitere Unterprobleme zerteilen und mithilfe welcher Datenstrukturen Sie offe
 Schranke liefert.
 
 3.1 Entwickeln Sie darauf aufbauend einen heuristischen Algorithmus, um für ein
-(Unter-)Problem möglicherweise eine g¨ultige L¨osung zu erhalten, deren Wert eine
+(Unter-)Problem möglicherweise eine gültige Lösung zu erhalten, deren Wert eine
 globale obere Schranke darstellt.
 
 
