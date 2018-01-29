@@ -1,7 +1,7 @@
 # KMST
 TU Vienna 
 
-##### Prim’s, Branch and Bound Algorithm for the Minimal Spanning Tree Problem.
+#### Prim’s, Branch and Bound Algorithm for the Minimal Spanning Tree Problem.
 
 1-) Think about how the branch will be implemented, that is, how to solve a (sub) problem, and divide it into other sub-problems and what data structures you enter to open them. Save (bottom) example.
 
